@@ -1,0 +1,23 @@
+# LaTeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.out
+*.toc
+
+# Archives (regenerate from source instead of tracking)
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
